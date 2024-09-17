@@ -1,5 +1,5 @@
 # Natural Language Processing
 
 ## Education
-MA Digital Text Analysis
+MA Digital Text Analysis and more
 ### Work examples
