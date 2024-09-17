@@ -9,5 +9,5 @@ Natural Language Processing - Linguistics
 ## Writing samples
 -Academic writing about complex topics: [Thesis](https://github.com/valeravest1/portfolio/blob/main/Thesis_Valentina_Ravest.pdf)
 
--Latex formating [here] (https://github.com/valeravest1/portfolio/blob/main/latex-thesis-formating.tex)
+-Latex formating: [here] (https://github.com/valeravest1/portfolio/blob/main/latex-thesis-formating.tex)
 
