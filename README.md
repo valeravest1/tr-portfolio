@@ -9,6 +9,7 @@ Natural Language Processing - Linguistics
 ## Writing samples
 
 -Academic writing about complex topics: [Thesis](https://github.com/valeravest1/portfolio/blob/main/Thesis_Valentina_Ravest.pdf)
+
 -Academic writing:[Summary of Article](https://pure.rug.nl/ws/portalfiles/portal/155049863/Libro_de_Res_menes_Actas_III_CILCC_2020_y_V_WoPATeC_2020_Virtual_.pdf#page=294)
 
 ## Programmimg samples
