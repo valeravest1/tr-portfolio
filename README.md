@@ -18,3 +18,8 @@ Natural Language Processing - Linguistics
 -R Programming: [here](https://github.com/valeravest1/portfolio/blob/main/code_thesis_r.ipynb)
 
 -Python programming: [here](https://github.com/valeravest1/portfolio/blob/main/Neural_BERT_HW_solution_adapted.ipynb)
+
+## Other collaborations
+-Lexicon contribution: [here](https://github.com/valeravest1/portfolio/blob/main/lexicon-aknowledgments.pdf)
+
+-
