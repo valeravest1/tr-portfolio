@@ -22,4 +22,3 @@ Natural Language Processing - Linguistics
 ## Other collaborations
 -Lexicon contribution: [here](https://github.com/valeravest1/portfolio/blob/main/lexicon-aknowledgments.pdf)
 
--
