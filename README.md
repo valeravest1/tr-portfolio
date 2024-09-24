@@ -1,5 +1,5 @@
 # Language Technologies
-Natural Language Processing - Linguistics
+### Natural Language Processing - Linguistics
 
 This portfolio is intended to show a sample of some work that demonstrates my technical writing skills and my programming skills. These are writings and code used in the past for a particular purpose and have not been altered for this portfolio.
 
