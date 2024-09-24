@@ -10,7 +10,7 @@ This portfolio is intended to show a sample of some work that demonstrates my te
 
 ## Writing samples
 
-### -Academic writing: [Thesis](https://github.com/valeravest1/portfolio/blob/main/Thesis_Valentina_Ravest.pdf)
+#### -Academic writing: [Thesis](https://github.com/valeravest1/portfolio/blob/main/Thesis_Valentina_Ravest.pdf)
 
 This text corresponds to a master thesis that explores a linguistic phenomenon using machine learning techniques. It contains hypothesis formulations, theoretical analysis of bibliography, description of methodologies, explanation of processes and analysis of results.
 
