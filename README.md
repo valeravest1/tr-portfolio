@@ -4,9 +4,9 @@ Natural Language Processing - Linguistics
 This portfolio is intended to show a sample of some work that demonstrates my technical writing skills and my programming skills. These are writings and code used in the past for a particular purpose and have not been altered for this portfolio.
 
 ## Education
-- MA Digital Text Analysis - University of Antwerp 
-- BA Applied Linguistics - Pontifical Catholic University of Valparaiso
-- BA Education - Pontifical Catholic University of Valparaiso
+- MA Digital Text Analysis - University of Antwerp 💻
+- BA Applied Linguistics - Pontifical Catholic University of Valparaiso 📜
+- BA Education - Pontifical Catholic University of Valparaiso 👩‍🏫
 
 ## Writing samples
 
