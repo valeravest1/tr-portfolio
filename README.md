@@ -19,11 +19,13 @@ This text corresponds to a master thesis that explores a linguistic phenomenon u
 This text corresponds to the abstract of the paper presented at the International Congress on Corpus Linguistics 2020 and Workshop on Automated Text Processing WOPATEC 2020. This abstract is inserted in the proceedings of the conference and aims to explain in a general way what the presentation was about. The original language is Spanish, but a translated version into English can be found [here](https://github.com/valeravest1/portfolio/blob/main/WOPATEC%20en.pdf)
 
 ## Programmimg samples
--Latex formating: [here](https://github.com/valeravest1/portfolio/blob/main/latex-thesis-formating.tex)
 
--R Programming: [here](https://github.com/valeravest1/portfolio/blob/main/code_thesis_r.ipynb)
+#### -R Programming: [Machine learning applied to corpus linguistics](https://github.com/valeravest1/portfolio/blob/main/code_thesis_r.ipynb)
 
--Python programming: [here](https://github.com/valeravest1/portfolio/blob/main/Neural_BERT_HW_solution_adapted.ipynb)
+#### -Python programming: [Neural networks for sentimient Analysis](https://github.com/valeravest1/portfolio/blob/main/Neural_BERT_HW_solution_adapted.ipynb)
+
+#### -Latex formating: [LaTex Thesis](https://github.com/valeravest1/portfolio/blob/main/latex-thesis-formating.tex)
+This is the code used to format text using LaTex. This results in a PDF text that follows basic conventions established by the scientific community for text publishing. The final result for this document is the master thesis presented above.
 
 ## Other collaborations
 -Lexicon contribution: [here](https://github.com/valeravest1/portfolio/blob/main/lexicon-aknowledgments.pdf)
