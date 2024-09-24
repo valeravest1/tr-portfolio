@@ -26,10 +26,10 @@ This text corresponds to the abstract of the paper presented at the Internationa
 
 ## Programmimg samples
 
-#### -R Programming: [Machine learning applied to corpus linguistics](https://github.com/valeravest1/portfolio/blob/main/code_thesis_r.ipynb)
+#### -R Programming: [Machine Learning applied to Corpus Linguistics](https://github.com/valeravest1/portfolio/blob/main/code_thesis_r.ipynb)
 This is the code written in R used to perform machine learning algorithms in a project related to Corpus Linguistics. Inferential trees and random forest are created to determine the stylistic characteristics of 19th century english authors.
 
-#### -Python programming: [Neural networks for sentimient Analysis](https://github.com/valeravest1/portfolio/blob/main/Neural_BERT_HW_solution_adapted.ipynb)
+#### -Python programming: [Neural Networks for Sentimient Analysis](https://github.com/valeravest1/portfolio/blob/main/Neural_BERT_HW_solution_adapted.ipynb)
 This is the code written in Python used to perform sentiment analysis, using Neural Networks. This code was part of a competition held in a course at the University of Antwerp with the aim of obtaining the best model to identify negativity in social network texts and was awarded as the winner of the [competition.](https://www.uantwerpen.be/en/study/programmes/all-programmes/digital-text-analysis/about-the-programme/taste-of-dta/)
 
 #### -Latex formating: [LaTex Thesis](https://github.com/valeravest1/portfolio/blob/main/latex-thesis-formating.tex)
